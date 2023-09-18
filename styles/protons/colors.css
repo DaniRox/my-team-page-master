@@ -1,0 +1,29 @@
+:root{
+    --black: #000000;
+    --light-gray: #A9A9A9;
+    --white: #ffffff;
+}
+
+.color--black{
+    color: var(--black);
+}
+
+.color--liht-gray{
+    color: var(--light-gray);
+}
+
+.color--white{
+    color: var(--white);
+}
+
+.background--black{
+    background-color: var(--white);
+}
+
+.background--light-gray{
+    background-color: var(--light-gray);
+}
+
+.background--white{
+    background-color: var(--white);
+}

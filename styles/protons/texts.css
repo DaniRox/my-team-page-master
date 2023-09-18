@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@500;700 & family= PT+Serif:wght@700 & family= Poppins:wght@400;600 & mostrar=intercambiar');
+
+:root{
+    --montserrat: 'Montserrat', sans-serif;
+    --poppins: 'Poppins', sans-serif;
+    --pt-serif: 'PT Serif', serif;
+}
+
+.txt--montserrat{
+    font-family: var(--montserrat);
+}
+
+.txt--poppins{
+    font-family: var(--poppins);
+}
+
+.txt--pt-serif{
+    font-family: var(--pt-serif);
+}
+
+.txt--s{
+    font-size: 0.8rem;
+}
+
+.txt--m{
+    font-size: 1rem;
+}
+
+.txt--l{
+    font-size: 1.4rem;
+}
+
+.txt--xl{
+    font-size: 2rem;
+}
+
+.txt--normal{
+    font-weight: 400;
+}
+
+.txt--semi-bold{
+    font-weight: 600;
+}
+
+.txt--bold{
+    font-weight: 700;
+}
+
+.txt--upper{
+    text-transform: uppercase;
+}
+
+.txt--center{
+    text-align: center;
+}
+
+.line-height--s{
+    line-height: 1.5rem;
+}
+
+.line-height--m{
+    line-height: 4rem;
+}
