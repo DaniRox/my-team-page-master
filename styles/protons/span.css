@@ -1,3 +1,6 @@
 .span--transform{
     transform: rotate(90deg);
+    position: absolute;
+    margin-top: 3rem;
+    margin-left: 8rem;
 }
