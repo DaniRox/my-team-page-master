@@ -1,5 +1,7 @@
 .div-group-team{
+    margin-top: 3rem;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-between;
 }

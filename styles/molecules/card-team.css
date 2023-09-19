@@ -1,0 +1,12 @@
+.card-team{
+    height: 100%;
+    padding-bottom: 3rem;
+}
+
+.card-team--margin-top{
+    padding-top: 3rem;
+}
+
+.card-team--margin-bottom{
+    padding-bottom: 3rem;
+}
