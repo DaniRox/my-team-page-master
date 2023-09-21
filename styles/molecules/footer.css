@@ -9,5 +9,7 @@
 @media only screen and (min-width: 770px){
     .footer{
         position: absolute;
+        right: 0;
+        left: 0;
     }
 }
