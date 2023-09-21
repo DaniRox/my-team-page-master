@@ -1,0 +1,19 @@
+.div-texts{
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+@media only screen and (min-width: 770px){
+    .div-texts{
+        height: 6.5rem;
+        width: 50%;
+    }
+
+    .div-texts > p {
+        font-size: 1.2rem;
+    }
+}

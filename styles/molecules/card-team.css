@@ -1,12 +1,16 @@
 .card-team{
     height: 100%;
-    padding-bottom: 3rem;
+    min-width: 30%;
+    margin-bottom: 0rem;
 }
 
 .card-team--margin-top{
-    padding-top: 3rem;
+    margin-top: 4rem;
 }
 
-.card-team--margin-bottom{
-    padding-bottom: 3rem;
+
+@media only screen and (min-width: 770px){
+    .card-team--margin-top{
+        margin-top: 7rem;
+    }
 }
